@@ -10,4 +10,4 @@ If multiple instances are running you can use -s param for connecting into anoth
 Maybe not all commands are working as expected.
 
 ## Screenshot
-<img width="499" height="554" alt="Screenshot_14" src="https://github.com/user-attachments/assets/ec95bf14-faa3-4c54-8be7-982c7239aa78" />
+<img width="654" height="633" alt="Screenshot_15" src="https://github.com/user-attachments/assets/c722e718-7d0d-4eb1-88a7-ac550c2af85c" />
