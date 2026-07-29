@@ -1,6 +1,7 @@
 # mcore_console
 simple Linux client console for Meshcore Linux variant.
 It is designed for connecting into meshcore native console where user can read/write configurations and states.
+Compatible only with modified meshcore firmware: https://github.com/mastodon987/meshcore-linux
 
 ## Usage
 
