@@ -5,8 +5,8 @@ Compatible only with custom meshcore firmware: https://github.com/mastodon987/me
 
 ## Usage
 
-Filename is compiled as 'mcore' where if used make install it's loaded into /usr/local/bin directory
-for connecting to meshcored instance is by default used Linux sockets /run/meshcored/meshcored.sock.
+Filename is compiled as 'mcore' where if used make install it's loaded into /usr/local/bin directory.
+For connecting to meshcored instance is by default used Linux sockets /run/meshcored/meshcored.sock.
 If multiple instances are running you can use -s param for connecting into another instances.
 Maybe not all commands are working as expected.
 
